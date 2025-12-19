@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/env python3
 # Unicode近傍文字表示ツール（最終統合版）
 # 方針:
 #  - 主役は「必ず可視な文字表現」
